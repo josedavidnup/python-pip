@@ -1,3 +1,8 @@
-# Steps
+# Game Project
 
-This is a project to practice pip and python environment
+To play the game, you have to follow the next steps in the terminal:
+
+```sh
+cd game
+python3 python main.py 
+```
